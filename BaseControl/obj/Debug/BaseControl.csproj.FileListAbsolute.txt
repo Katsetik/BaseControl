@@ -1,0 +1,6 @@
+D:\eee7\BaseControl\bin\Debug\BaseControl.exe.config
+D:\eee7\BaseControl\obj\Debug\BaseControl.csprojResolveAssemblyReference.cache
+D:\eee7\BaseControl\bin\Debug\BaseControl.exe
+D:\eee7\BaseControl\bin\Debug\BaseControl.pdb
+D:\eee7\BaseControl\obj\Debug\BaseControl.exe
+D:\eee7\BaseControl\obj\Debug\BaseControl.pdb
